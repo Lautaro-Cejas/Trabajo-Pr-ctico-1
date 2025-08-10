@@ -1,0 +1,21 @@
+package ejercicio3;
+
+/**
+ *
+ * @author lauti
+ */
+public class ejercicio3 {
+
+    public static void main(String[] args) {
+        String nombre = "Lautaro Cejas";
+        int edad = 21;
+        double altura = 1.65;
+        boolean estudiante = true;
+
+        System.out.println("Nombre: " + nombre);
+        System.out.println("Edad: " + edad);
+        System.out.println("Altura: " + altura);
+        System.out.println("Estudiante: " + estudiante);
+    }
+}
+
